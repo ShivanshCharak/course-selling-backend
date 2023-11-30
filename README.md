@@ -22,7 +22,7 @@ This is a course selling website with a backend built using Express and MongoDB.
 
 # API Endpoints
 
-##Admin Routes
+## Admin Routes
 
 - POST /admin/signup: Create a new admin account.
 - POST /admin/login: Log in as an admin.
